@@ -2,7 +2,9 @@
 
 **Estudiante:** Sergio · **Profe:** Leonardo Arturo Cano García · **Universidad:** Nacional de Colombia (Bogotá), Semestre 3.
 **Parcial 1:** ✅ presentado, nota 4.6.
-**Parcial 2:** fecha aún NO confirmada. Estimación: el profe avisaría el **mié 4 nov** y el examen caería ~**11 nov 2026**. Hoy es **29 oct 2026**.
+**Parcial 2:** fecha aún NO confirmada. Ventana estimada: **11 nov**, o posiblemente **16–18 nov 2026**. Hoy es **29 oct 2026**.
+
+> Implicación de la fecha: si el parcial se corre al 16–18 nov, el profe casi seguro ALCANZA a dar integrales triples, coordenadas (cilíndricas/esféricas) y cambio de variable/Jacobiano antes del examen. Por eso están preparados en el apunte 09. Mientras más tarde el parcial, más probable que esos temas (E/F/G) entren en firme.
 
 ---
 
