@@ -20,13 +20,14 @@
 | 19 Oct | **Multiplicadores de Lagrange** | `19OctubreMultiplicadoresLagrange_annotated.pdf` |
 | 21 Oct | **Integrales dobles sobre rectángulos** | `21OctubreIntegralesRectangulos_annotated.pdf` |
 | 26 Oct | **Integrales dobles sobre regiones tipo I y II** (clase virtual, SIN PDF — solo video). Sección 15.3 Stewart 6ª ed. | ❌ solo video |
-| 28 Oct | Ejercicios de integrales dobles (sección 15.3; ej. volumen con z=x, y=x, x+y=2) (SIN PDF — solo texto) | ❌ solo texto |
+| 28 Oct (texto) | Ejercicios de integrales dobles (sección 15.3; ej. volumen con z=x, y=x, x+y=2) (SIN PDF — solo texto) | ❌ solo texto |
+| 4 Nov (= PDF "28Octubre...") | **Coordenadas polares + cambio de variable (Jacobiano)**. Polares F(θ,R)=(R cosθ, R senθ); det(DF)=−r (de ahí el factor r); teorema general ∬_V f dx dy = ∬_U f(φ(u,v))\|det Dφ\| du dv; ejemplo lineal F(u,v)=(u+2v, u−2v), \|det\|=4 | `28OctubrePolaresCambioVariable_annotated.pdf` ✅ |
 
-### Lo que FALTA que el profe dé (esperado antes del parcial, ~2 clases más)
-Los parciales modelo lo incluyen, así que lo preparamos por seguridad:
-- **Integrales triples** (plantear límites, cambiar orden de integración, bosquejar sólido)
-- **Coordenadas cilíndricas y esféricas** (plantear integrales de volumen)
-- **Cambio de variable / Jacobiano** (integral sobre elipse con sustitución)
+### Lo que FALTA que el profe dé (esperado antes del parcial)
+Los parciales modelo lo incluyen, así que ya está preparado por seguridad (apunte 09):
+- **Integrales triples** (plantear límites, cambiar orden de integración, bosquejar sólido) — AÚN NO dado.
+- **Coordenadas cilíndricas y esféricas** (plantear integrales de volumen) — AÚN NO dado (pero ya dio polares, que es la base).
+- **Cambio de variable / Jacobiano** — ✅ YA DADO el 4 nov (clase del "28 oct"). Confirma que el apunte 09 está alineado.
 
 > Decisión acordada con Sergio: preparar TODOS los temas que aparecen en modelos/simulacros, porque el profe puede meter los que faltan "de afán" en las 2+ clases restantes.
 

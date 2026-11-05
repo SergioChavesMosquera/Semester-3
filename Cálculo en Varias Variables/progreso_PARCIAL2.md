@@ -33,7 +33,9 @@ Leyenda: ✅ completado · 🟡 a medias/afinar · ⏳ pendiente · ❌ no cae
 | 4 | **Triples + coordenadas + Jacobiano** — triples (plantear/orden), cilíndricas, esféricas, cambio de variable | 2h | `09_Integrales_Triples_Coordenadas_Jacobiano.md` | ✅ listo |
 | 5 | **Remate** — simulacro cronometrado tipo parcial + repaso `CHEATSHEET_PARCIAL2.md` | 2h | `SIMULACRO_PARCIAL2.md` | ✅ listo |
 
-> **Material 100% creado (29 oct).** Apuntes, cheatsheet y simulacro escritos con la notación y ejemplos del profe. Solo queda estudiar activo tema por tema cuando Sergio tenga su bloque. PDFs convertidos a PNG en `_paginas/`.
+> **Material 100% creado (29 oct).** Apuntes, cheatsheet y simulacro escritos con la notación y ejemplos del profe. PDFs convertidos a PNG en `_paginas/`.
+>
+> **Actualización 4 nov:** el profe dio **polares + cambio de variable (Jacobiano)** (PDF "28Octubre..."). Confirma que el apunte 09 está alineado. Falta solo triples y cilíndricas/esféricas (probable si el parcial es 16-18 nov). Fecha del parcial aún sin confirmar. Hoy arranca el estudio activo por el Bloque 1.
 
 ### Sugerencia de calendario (ajustable)
 - **Mar 4** (día más libre, ~7.5h): bloques 1 + 2 + empezar 3.
