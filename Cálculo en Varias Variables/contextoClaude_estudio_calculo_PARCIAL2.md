@@ -63,3 +63,4 @@ Los parciales modelo lo incluyen, así que ya está preparado por seguridad (apu
 - `Libro/Cálculo vectorial 3ª Ed. - Marsden, Tromba.pdf` (sección 4.2 para optimización).
 - Stewart 6ª ed. sección 15.3 (integrales dobles tipo I/II) — citado por el profe.
 - `Talleres/Ejercicios_4.2_MarsdenTromba_p1.png` y `_p2.png` — ejercicios recomendados: 9,12,14,18,20,21,22,23,24,28,31,32.
+- **`Talleres/TallerCambioVariable1.pdf` (subido 5 nov)** — taller oficial del profe de cambio de variable, "insumo para preparar el parcial 2". 5 ejercicios: (1) paralelogramo→rectángulo con cambio lineal + ∬(2x+y); (2) región entre rectas x−2y, 3x+y + área con ∬|J|; (3) parábolas con u=y−x², v=y+x² (no lineal); (4) hipérbolas con u=xy, v=y/x (no lineal); (5) elipse x²/4+y²/9≤1 con x=2r cosθ, y=3r senθ (calcado de los modelos). **ALTA probabilidad de que un punto del parcial salga de aquí.** Para cada uno: graficar R→S, calcular Jacobiano, plantear nuevos límites e integral.
