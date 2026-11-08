@@ -1,4 +1,4 @@
-# 🎯 CHEAT-SHEET — Parcial 1 Matemáticas Discretas I (Matemática Estructural)
+# 🎯 REMONTADA — Parcial 1 Matemáticas Discretas I (Matemática Estructural)
 
 > Regla de oro: JUSTIFICA TODO. Si es verdadero → demostración formal. Si es falso → CONTRAEJEMPLO concreto.
 

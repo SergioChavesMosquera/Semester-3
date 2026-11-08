@@ -44,6 +44,8 @@ Marca cada tema a medida que lo cierras:
 | Operaciones | Resolvió V/F 2 solo con ejemplo A={1},B={2} → VERDADERO ✅ | OJO: ejemplo da intuición pero "para todo" exige argumento general con "sea X...". Ejemplo solo prueba FALSOS (contraejemplos). |
 | Operaciones | V/F 3 (A∪B)\A=B\A resuelto de cabeza → VERDADERO ✅ | Al redactar, decir que x∈A ∧ x∉A es "contradicción" (esa palabra da el punto). |
 | Relaciones | V/F 4 (R∪S reflexiva) entendido tras explicación con "ser hermano/≤" | Reflexiva = (a,a)∈R ∀a. R∪S: basta una reflexiva. R∩S: necesita ambas. Unir nunca borra parejas. |
+| V/F "existe" | ⚠️ ERROR CLAVE: en V/F 1 ("existe X...") dio un X malo ({1,2}) y concluyó FALSO | En "EXISTE": UN ejemplo bueno = VERDADERO (aquí X=𝒰 ⟹ B=C). Un X malo NO prueba nada. En "PARA TODO": UN ejemplo malo = FALSO. Son espejos. |
+| Redacción | Empezó la demo por el lado de LLEGADA (B\A) en vez del de salida | SIEMPRE arrancar del lado izquierdo y llegar al derecho. "Informal" = con palabras, NO = incompleto. 2 líneas clave: arrancar bien + decir "contradicción". Preguntar al profe cuánto rigor quiere. |
 
 ---
 
