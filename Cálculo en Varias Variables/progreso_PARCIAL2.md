@@ -1,8 +1,26 @@
 # Progreso Repaso PARCIAL 2 — Cálculo en Varias Variables
 
-**Estudiante:** Sergio · **Profe:** Leonardo A. Cano G. · **Examen:** ~mié 11 nov (por confirmar, aviso esperado mié 4 nov)
-**Hoy:** 29 oct 2026 · **Método:** ejemplo corto → resuelvo solo → corrección puntual → ejercicio de parcial real.
-**Presupuesto de tiempo:** ~10h (25% del tiempo libre semanal) en 5 bloques de ~2h.
+**Estudiante:** Sergio · **Profe:** Leonardo A. Cano G. · **Examen:** ✅ CONFIRMADO miércoles 18 nov 2026.
+**Método:** ejemplo corto → resuelvo solo → corrección puntual → ejercicio de parcial real.
+**Presupuesto:** ~17.5h en 7 días (10-17 nov), ~2.5h/día.
+
+## TEMARIO OFICIAL (del tablón del profe, 10 nov)
+1. Optimización: 1.1 Hessiano/clasificar · 1.2 región cerrada y acotada · 1.3 Lagrange
+2. Integración múltiple: 2.1 def. Riemann (dobles y triples) · 2.2 iteradas (Cavalieri, Fubini, cambiar orden) · 2.3 cambio de variable (polares 2D, cilíndricas/esféricas 3D) · 2.4 aplicaciones (área, volumen, masa, centro de masa)
+
+## PLAN DE REMONTADA (meta: 5.0; venimos de 2.7 en P1)
+| Día | Tema | Horas |
+|-----|------|-------|
+| Mar 11 | 1. Optimización (cerrar región cerrada + repaso Hessiano/Lagrange) | 2h |
+| Mié 12 | 2. Integrales dobles (Riemann, Fubini, tipo I/II, cambiar orden) | 2.5h |
+| Jue 13 | 3. Cambio de variable 2D (Jacobiano, polares, trapecio) | 2.5h |
+| Vie 14 | 4. Integrales triples + coordenadas 3D (cilíndricas, esféricas) | 3h |
+| Sáb 15 | 5. Centro de masa (lámina + sólido) — TEMA NUEVO, por crear apunte | 2.5h |
+| Dom 16 | 6. Simulacro con taller del profe + repaso flojos | 3h |
+| Lun 17 | Repaso final cheatsheet + ejercicios difíciles | 2h |
+
+> **Taller oficial del profe** `TallerParcial2CalcVectorial.pdf` (12 ejercicios) = mapa exacto del parcial. Ej 1-4 optimización, 5-7 dobles, 8-10 cambio de variable, 11-12 centro de masa.
+> **PENDIENTE:** crear apunte de centro de masa (sin PDF del profe, usar Stewart 15.5/15.6).
 
 ---
 
